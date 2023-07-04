@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../aspuploader"
+		},
+		{
+			"path": "../NguyenQuangHuy_97265"
+		},
+		{
+			"path": "../login"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fashionShop"
+	}
+}
